@@ -1,0 +1,6 @@
+com\herokuapp\pages\EditPage.class
+com\herokuapp\pages\ShowPage.class
+com\herokuapp\pages\AbstractPage.class
+com\herokuapp\pages\MainPage.class
+com\herokuapp\configuration\AppConfig.class
+com\herokuapp\configuration\DriverFunctions.class
